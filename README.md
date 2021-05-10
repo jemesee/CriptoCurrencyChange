@@ -5,7 +5,7 @@ Angular 10.1.4. verziójával készült program
 ## Indítás
 
 Az `ng serve` parancsot kiindulva elindul a program. A `http://localhost:4200/` oldalra navigálva érhető el.
-
+ 
 ## Programról
 
 CoinAPI használatával készült alkalmazás. Egy bejelentkező felületen felhasználónév-jelszó páros megadásával tud túl jutni a felhasználó. Egy felhasználónévhez egy jelszó tartozik, azaz ha egyszer megadtunk beléptünk adatpárossal utána csak azzal tudunk belépni.
