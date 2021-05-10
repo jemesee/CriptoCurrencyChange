@@ -4,7 +4,7 @@ Angular 10.1.4. verziójával készült program
 
 ## Indítás
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Az `ng serve` parancsot kiindulva elindul a program. A `http://localhost:4200/` oldalra navigálva érhető el.
 
 ## Programról
 
